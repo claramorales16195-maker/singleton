@@ -31,9 +31,12 @@ public class AppConfig {
     public void printConfig() {
         System.out.println("Theme: " + theme + ", Language: " + language);
     }
+<<<<<<< HEAD
 
     public static AppConfig getInstance() {
         return instance;
     }
 
+=======
+>>>>>>> 3889f9efbc3d81e3d0286e034930c7c9beb8c349
 }
